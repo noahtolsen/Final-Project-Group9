@@ -2,6 +2,11 @@
 
 *Welcome to our final project see below for the structure of the repository*
 
+**Group Member**
+- Toufik Bouras
+- Noah Olsen
+- Teryn Zmuda
+
 ## Code
 
 This folder contains all of our code. It contains a separate README file that explains how to gain access to the data. There are three python files containing three different models that can be run after running the bash script as referenced in the code folder README.
